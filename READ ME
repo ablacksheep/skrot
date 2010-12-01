@@ -1,0 +1,14 @@
+Start jobb
+
+FETCH
+SYNC
+CHECKOUT
+
+---------
+Legg ut jobb
+
+COMMIT
+FETCH
+SYNC
+MERGE
+PUSH
